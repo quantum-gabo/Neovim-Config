@@ -180,3 +180,6 @@ activeForeground=252,252,252
 inactiveBackground=42,46,50
 inactiveBlend=161,169,177
 inactiveForeground=161,169,177
+
+[KShortcutsDialog Settings]
+Dialog Size=600,480
